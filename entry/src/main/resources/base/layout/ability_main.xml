@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.isoftstone.precentpositionlayout.PrecentPositionLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent">
+
+    <Text
+        ohos:id="$+id:text_helloworld"
+        ohos:height="250"
+        ohos:width="250"
+        ohos:left_margin="0"
+        ohos:top_margin="0"
+        ohos:background_element="$graphic:background_text"
+        ohos:text="左上25%"
+        ohos:text_size="50"
+        />
+
+    <Text
+        ohos:id="$+id:text_helloworld"
+        ohos:height="250"
+        ohos:width="250"
+        ohos:left_margin="750"
+        ohos:top_margin="0"
+        ohos:background_element="$graphic:background_text"
+        ohos:text="右上25%"
+        ohos:text_size="50"
+        />
+
+    <Text
+        ohos:id="$+id:text_helloworld"
+        ohos:height="250"
+        ohos:width="250"
+        ohos:left_margin="0"
+        ohos:top_margin="750"
+        ohos:background_element="$graphic:background_text"
+        ohos:text="左下25%"
+        ohos:text_size="50"
+        />
+
+    <Text
+        ohos:id="$+id:text_helloworld"
+        ohos:height="250"
+        ohos:width="250"
+        ohos:left_margin="750"
+        ohos:top_margin="750"
+        ohos:background_element="$graphic:background_text"
+        ohos:text="右下25%"
+        ohos:text_size="50"
+        />
+
+    <Text
+        ohos:id="$+id:text_helloworld"
+        ohos:height="250"
+        ohos:width="250"
+        ohos:left_margin="375"
+        ohos:top_margin="375"
+        ohos:background_element="$graphic:background_text"
+        ohos:text="中心25%"
+        ohos:text_size="50"
+        />
+
+</com.isoftstone.precentpositionlayout.PrecentPositionLayout>
